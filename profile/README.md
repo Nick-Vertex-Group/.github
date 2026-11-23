@@ -21,7 +21,7 @@ We believe meaningful innovation begins with learning, thoughtful development an
 
 Founder
 
-Nick Vertex — Founder and Lead Developer
+**[Nick Vertex](https://github.com/NickVertex)** — Founder and Lead Developer
 
 ---
 
