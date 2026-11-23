@@ -25,5 +25,6 @@ Founder
 
 ---
 
-Technology • Innovation • Impact
-Nick Vertex Group
+**Technology • Innovation • Impact.**
+
+**NICK VERTEX GROUP**
